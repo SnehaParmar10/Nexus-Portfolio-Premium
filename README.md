@@ -1,4 +1,4 @@
-1111# 🚀 Nexus Portfolio | SP.NEXUS
+# 🚀 Nexus Portfolio | SP.NEXUS
 
 A flagship, high-performance developer portfolio designed with a futuristic aesthetic. This serves as the central hub for all my engineering projects.
 
